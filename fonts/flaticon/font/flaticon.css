@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?b2c5f81232103c596540304544420f93") format("truetype"),
+url("./flaticon.woff?b2c5f81232103c596540304544420f93") format("woff"),
+url("./flaticon.woff2?b2c5f81232103c596540304544420f93") format("woff2"),
+url("./flaticon.eot?b2c5f81232103c596540304544420f93#iefix") format("embedded-opentype"),
+url("./flaticon.svg?b2c5f81232103c596540304544420f93#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-bathtube:before {
+    content: "\f101";
+}
+.flaticon-real-estate:before {
+    content: "\f102";
+}
+.flaticon-capital:before {
+    content: "\f103";
+}
+.flaticon-home:before {
+    content: "\f104";
+}
+.flaticon-lorry:before {
+    content: "\f105";
+}
+.flaticon-bed:before {
+    content: "\f106";
+}
+.flaticon-blueprint:before {
+    content: "\f107";
+}
